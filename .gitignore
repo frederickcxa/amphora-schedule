@@ -2,4 +2,7 @@
 .idea/
 
 # Node
-node_modules
+node_modules/
+
+# Jest Test Coverage
+coverage/
